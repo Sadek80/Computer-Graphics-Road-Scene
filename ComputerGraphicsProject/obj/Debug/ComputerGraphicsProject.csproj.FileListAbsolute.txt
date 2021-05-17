@@ -1,0 +1,10 @@
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.csprojAssemblyReference.cache
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.Form1.resources
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.Properties.Resources.resources
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.csproj.GenerateResource.cache
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.csproj.CoreCompileInputs.cache
+D:\Study\College\C#\ComputerGraphicsProject\bin\Debug\ComputerGraphicsProject.exe.config
+D:\Study\College\C#\ComputerGraphicsProject\bin\Debug\ComputerGraphicsProject.exe
+D:\Study\College\C#\ComputerGraphicsProject\bin\Debug\ComputerGraphicsProject.pdb
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.exe
+D:\Study\College\C#\ComputerGraphicsProject\obj\Debug\ComputerGraphicsProject.pdb
