@@ -49,6 +49,14 @@ namespace ComputerGraphicsProject
             //graphic_fan.Dispose();
             //groundBrush.Dispose();
         }
+        
+         private void initializeObjects()
+        {
+            // Initialize Main Graphic Objects
+            graphic = this.CreateGraphics();
+            graphic_fan = this.CreateGraphics();
+            graphic_car = this.CreateGraphics();
+        }
 
         /// <summary>
         /// Draw main background (Sky & Ground)
@@ -150,14 +158,6 @@ namespace ComputerGraphicsProject
             graphic_car.FillEllipse(Brushes.White, 762, 589, 75, 75);
 
             graphic_car.TranslateTransform(2, 0);
-        }
-
-        private void initializeObjects()
-        {
-            // Initialize Main Graphic Objects
-            graphic = this.CreateGraphics();
-            graphic_fan = this.CreateGraphics();
-            graphic_car = this.CreateGraphics();
         }
     }
 }
